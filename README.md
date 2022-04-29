@@ -7,6 +7,7 @@ Fresher
 A fresher looking for a job in the engineering field. A self-learner who has great enthusiasm for solving challenges and dream about becoming one of the best engineers out there. My skills include Programming, Problem Solving, and Mathematics. Has a keen interest in Data Structures & Algorithms, Mathematical Programming, Artificial Intelligence and has great programming skills in C/C++, Python. I'm currently creating projects and solving challenges, hoping to bring new ideas to the tech field with all of my skills included.
 
 * 🌍  I'm based in India
+* ✉️  You can contact me at [adwaith.rajeev@learner.manipal.edu](mailto:adwaith.rajeev@learner.manipal.edu)
 * 🧠  I'm learning Master of Computer Applications
 * 🤝  I'm open to collaborating on Data Analytics, C, C++, Python, Machine Learning
 
@@ -33,4 +34,4 @@ A fresher looking for a job in the engineering field. A self-learner who has gre
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/letsmakecakes"><img src="https://github-readme-stats.vercel.app/api?username=letsmakecakes&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="letsmakecakes's GitHub stats" /></a>
+<a href="http://www.github.com/letsmakecakes"><img src="https://github-readme-stats.vercel.app/api?username=letsmakecakes&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="letsmakecakes's GitHub stats" /></a>
